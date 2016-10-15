@@ -18,6 +18,6 @@
 				<td><a href="index.jsp">메인으로 돌아가기</a></td>
 			</tr>
 		</table>
-	</form>
+	</form> 
 </body>
 </html>
